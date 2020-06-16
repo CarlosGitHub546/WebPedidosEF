@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebPedidosItems.Models.PedidoModel>
+
+@{
+    ViewBag.Title = "Pedidos";
+}
+
+<h2>Lista pedidos</h2>
+
+<p>
+    @Html.ActionLink("Crear nuevo pedido", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Persona)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cerrado)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Codigo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Persona)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Total)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cerrado)
+        </td>
+        <td>
+            @if (item.Cerrado != true)
+            {
+                @Html.ActionLink("Editar", "Edit", new { id = item.Codigo })
+
+            }
+            else
+            {
+                @Html.ActionLink("Ver", "Preview", new { id = item.Codigo })
+            }
+           
+        </td>
+    </tr>
+}
+
+</table>
+
+<div class="row">
+    Total de todos los pedidos @ViewBag.TotalPedidos
+</div>
+
+
+@*@if (@ViewBag.PersonaMaxTotalFinalCantidad != '0')
+{
+    <div class="row">
+        Persona con más total en pedidos finalizados @ViewBag.PersonaMaxTotalFinal con un total de @ViewBag.PersonaMaxTotalFinalCantidad
+    </div>
+}*@

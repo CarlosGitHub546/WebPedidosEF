@@ -1,0 +1,194 @@
+﻿@model WebPedidosItems.Models.PedidoModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+@if (Model.Cerrado != true)
+{
+
+
+    <h2>Editar pedido</h2>
+
+
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            @*<h4>Pedido</h4>*@
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            @Html.HiddenFor(model => model.Codigo)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Persona, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Persona, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Persona, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Guardar" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="form-horizontal">
+        <h4>Listado items del pedido</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="NombrePedido">Nombre:</label>
+                <input type="text" id="NombrePedido" name="NombrePedido"><br><br>
+            </div>
+            <div class="col-sm-3">
+                <label for="CantidadPedido">Cantidad:</label>
+                <input type="number" id="CantidadPedido" name="CantidadPedido"><br><br>
+            </div>
+            <div class="col-sm-3">
+                <label for="PrecioPedido">Precio:</label>
+                <input type="number" id="PrecioPedido" name="PrecioPedido"><br><br>
+            </div>
+            <div class="col-sm-3">
+                <input type="button" onclick="addItem()" value="Añadir Item">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3">
+                <label>Código</label>
+            </div>
+            <div class="col-sm-3">
+                <label>Nombre</label>
+            </div>
+            <div class="col-sm-3">
+                <label>Cantidad</label>
+            </div>
+            <div class="col-sm-3">
+                <label>Precio</label>
+            </div>
+        </div>
+
+        <hr />
+
+        <div id="listaItems">
+            @if (Model.Items != null && Model.Items.Count() > 0)
+            {
+                for (int i = 0; i < Model.Items.Count(); i++)
+                {
+                    <div class="row">
+                        <div class="col-sm-3">
+                            @Model.Items[i].CodigoItem
+                        </div>
+                        <div class="col-sm-3">
+                            @Model.Items[i].Nombre
+                        </div>
+                        <div class="col-sm-3">
+                            @Model.Items[i].Cantidad
+                        </div>
+                        <div class="col-sm-3">
+                            @Model.Items[i].Precio
+                        </div>
+                    </div>
+                }
+            }
+
+        </div>
+
+        <div class="row">
+            <input type="button" onclick="finalizarPedido()" value="Finalizar pedido">
+        </div>
+
+    </div>
+
+
+}
+else
+{
+    <h2>Pedido finalizado</h2>
+}
+
+<div>
+    @Html.ActionLink("Volver a la lista", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script>
+    function addItem() {
+
+        var url = "@(Html.Raw(Url.Action("AddItem", "Pedido")))";
+
+        $.ajax({
+            url: url,
+            type: 'POST',
+            dataType: 'JSON',
+            data: {
+                CodigoPedido: @Model.Codigo,
+                Nombre: $("#NombrePedido").val(),
+                Cantidad: $("#CantidadPedido").val(),
+                Precio: $("#PrecioPedido").val(),
+            },
+            cache: false,
+            success: function (data) {
+
+                $('#listaItems').append(
+                    '<div class="col-sm-3">' +
+                    @Model.Codigo +
+                    '</div>' +
+                    '<div class="col-sm-3">' +
+                    $("#NombrePedido").val() +
+                    '</div>' +
+                    '<div class="col-sm-3">' +
+                    $("#CantidadPedido").val() +
+                    '</div>' +
+                    '<div class="col-sm-3">' +
+                    $("#PrecioPedido").val() +
+                    '</div>'
+                    );
+
+            }
+        });
+    }
+
+    function finalizarPedido() {
+
+        var urlFinalizarPedido = "@(Html.Raw(Url.Action("FinalizarPedido", "Pedido")))";
+
+        $.ajax({
+            url: urlFinalizarPedido,
+            type: 'POST',
+            dataType: 'JSON',
+            data: {
+                id: @Model.Codigo,
+            },
+            cache: false,
+            success: function (data) {
+
+                location.reload();
+
+            }
+        });
+
+    }
+</script>
+
+

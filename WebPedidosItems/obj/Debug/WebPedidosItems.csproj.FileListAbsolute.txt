@@ -1,0 +1,204 @@
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\ApplicationInsights.config
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\csc.exe
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\vbc.exe
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.dll.config
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.pdb
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Antlr3.Runtime.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\EntityFramework.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Web.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Google.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Newtonsoft.Json.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Owin.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Helpers.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Mvc.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Optimization.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Razor.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\WebGrease.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Web.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Helpers.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Mvc.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Optimization.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.Razor.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Antlr3.Runtime.pdb
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Newtonsoft.Json.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\EntityFramework.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Google.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\EntityFramework.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.csprojResolveAssemblyReference.cache
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.dll
+C:\Proyectos\pruebas HTMLtoPDF\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.pdb
+C:\Temp\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.csproj.CoreCompileInputs.cache
+C:\Temp\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.pdb
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\ApplicationInsights.config
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\csc.exe
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\vbc.exe
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\VBCSCompiler.exe
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.dll.config
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\WebPedidosItems.pdb
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Antlr3.Runtime.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\EntityFramework.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\EntityFramework.SqlServer.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.DependencyCollector.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Web.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.WindowsServer.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.ApplicationInsights.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Google.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Newtonsoft.Json.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Owin.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Helpers.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Mvc.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Optimization.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Razor.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Deployment.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Razor.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\WebGrease.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.DependencyCollector.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.Web.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AI.WindowsServer.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.ApplicationInsights.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Helpers.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Mvc.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Optimization.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.Razor.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Deployment.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\System.Web.WebPages.Razor.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Antlr3.Runtime.pdb
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Newtonsoft.Json.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\EntityFramework.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\EntityFramework.SqlServer.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Google.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Helpers.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Mvc.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Optimization.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.Razor.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\EntityFramework.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Temp\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.csproj.CopyComplete
+C:\Temp\WebPedidosItems\WebPedidosItems\obj\Debug\WebPedidosItems.csprojAssemblyReference.cache
